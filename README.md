@@ -18,4 +18,4 @@ Sass
 Tailwind CSS
 Python
 Java
-https://github-readme-stats.vercel.app/api?username=Hamza-alii
+
